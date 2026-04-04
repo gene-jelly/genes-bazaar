@@ -1,11 +1,10 @@
 ---
 title: "The Swiss Cheese School Year: How Many Weeks Are Actually Full Weeks?"
-description: "A week-by-week analysis of school calendar fragmentation comparing Winchester Thurston (private), Pittsburgh Public Schools, and the national average."
+description: "A week-by-week analysis of school calendar fragmentation comparing a private school, a public district, and the national average."
 date: 2026-04-04
 tags:
   - research
   - education
-  - pittsburgh
   - data-analysis
 ---
 
@@ -17,8 +16,8 @@ This is a question people rarely quantify but deeply feel. Every parent knows th
 
 We decided to count. Week by week, across the entire 2025–2026 school year, for three reference points:
 
-1. **Winchester Thurston** (WT) — a private school in Pittsburgh's Shadyside neighborhood
-2. **Pittsburgh Public Schools** (PPS) — the local public district
+1. **A private K–12 school** in a major Northeastern city
+2. **The local public school district** in the same city
 3. **The national average** — based on published research and a 180-day standard
 
 The results are worse than you'd guess.
@@ -29,13 +28,13 @@ The results are worse than you'd guess.
 
 We went through every Monday-through-Friday block from the first day of school to the last. A week is **broken** if *any* day has no school, a half day, an early dismissal, or a modified schedule. We're asking: **how many weeks do kids go to school all five days, full days, no asterisks?**
 
-Sources: [Winchester Thurston 2025–26 Calendar](https://www.winchesterthurston.org/life-at-wt/calendar), [Pittsburgh Public Schools 2025–26 Parent-Friendly Calendar](https://resources.finalsite.net/images/v1754057586/pghschoolsorg/nbelifdksw7d2stkmbu7/PPSParentFriendlyCalendar2025-2026.pdf), Pew Research Center (2023), Fairfax County Public Schools analysis (2025).
+Sources: Official 2025–26 calendars from both schools, Pew Research Center (2023), Fairfax County Public Schools analysis (2025).
 
 ---
 
 ## The Results
 
-| Metric | WT (Private) | PPS (Public) | National Avg |
+| Metric | Private School | Public District | National Avg |
 |---|---|---|---|
 | **Unbroken 5-day weeks** | **25** | **20** | **22–25** |
 | Total calendar weeks | 41 | 42 | ~40 |
@@ -43,11 +42,11 @@ Sources: [Winchester Thurston 2025–26 Calendar](https://www.winchesterthurston
 | Longest unbroken streak | 5 weeks | 6 weeks | ~3–4 weeks |
 | Total non-school days | ~36 | ~44 | ~30–40 |
 
-**At Pittsburgh Public Schools, more than half of all school weeks have at least one interruption.** At Winchester Thurston, it's better — but still, nearly 4 in 10 weeks aren't full weeks.
+**At the public district, more than half of all school weeks have at least one interruption.** At the private school, it's better — but still, nearly 4 in 10 weeks aren't full weeks.
 
 ---
 
-## Winchester Thurston: Week by Week
+## The Private School: Week by Week
 
 School year: August 25, 2025 – June 4, 2026
 
@@ -57,8 +56,8 @@ School year: August 25, 2025 – June 4, 2026
 | 2 | Sep 1–5 | ❌ | Labor Day (Mon) |
 | 3 | Sep 8–12 | ✅ | |
 | 4 | Sep 15–19 | ✅ | |
-| 5 | Sep 22–26 | ❌ | Rosh Hashanah (Tue) |
-| 6 | Sep 29–Oct 3 | ❌ | Yom Kippur (Thu) |
+| 5 | Sep 22–26 | ❌ | Religious holiday (Tue) |
+| 6 | Sep 29–Oct 3 | ❌ | Religious holiday (Thu) |
 | 7 | Oct 6–10 | ✅ | |
 | 8 | Oct 13–17 | ✅ | |
 | 9 | Oct 20–24 | ✅ | |
@@ -99,7 +98,7 @@ School year: August 25, 2025 – June 4, 2026
 
 ---
 
-## Pittsburgh Public Schools: Week by Week
+## The Public District: Week by Week
 
 School year: August 25, 2025 – June 12, 2026
 
@@ -109,10 +108,10 @@ School year: August 25, 2025 – June 12, 2026
 | 2 | Sep 1–5 | ❌ | Labor Day (Mon) |
 | 3 | Sep 8–12 | ❌ | Early dismissal (Fri) |
 | 4 | Sep 15–19 | ✅ | |
-| 5 | Sep 22–26 | ❌ | Rosh Hashanah (Tue) + Early dismissal (Fri) |
-| 6 | Sep 29–Oct 3 | ❌ | Yom Kippur (Thu) |
+| 5 | Sep 22–26 | ❌ | Religious holiday (Tue) + Early dismissal (Fri) |
+| 6 | Sep 29–Oct 3 | ❌ | Religious holiday (Thu) |
 | 7 | Oct 6–10 | ✅ | |
-| 8 | Oct 13–17 | ❌ | Conference day Mon (PreK–5 off) |
+| 8 | Oct 13–17 | ❌ | Conference day Mon (elementary off) |
 | 9 | Oct 20–24 | ❌ | Early dismissal (Fri) |
 | 10 | Oct 27–31 | ✅ | |
 | 11 | Nov 3–7 | ❌ | Election Day (Tue) |
@@ -134,7 +133,7 @@ School year: August 25, 2025 – June 12, 2026
 | 27 | Feb 23–27 | ✅ | |
 | 28 | Mar 2–6 | ✅ | |
 | 29 | Mar 9–13 | ❌ | Early dismissal (Fri) |
-| 30 | Mar 16–20 | ❌ | Eid al-Fitr (Fri) |
+| 30 | Mar 16–20 | ❌ | Religious holiday (Fri) |
 | 31 | Mar 23–27 | ✅ | |
 | 32 | Mar 30–Apr 3 | ❌ | Spring Break |
 | 33 | Apr 6–10 | ✅ | |
@@ -152,19 +151,19 @@ School year: August 25, 2025 – June 12, 2026
 
 ---
 
-## What's Killing PPS's Number?
+## What's Killing the Public District's Number?
 
-The difference between 25 (WT) and 20 (PPS) full weeks isn't about total days off — it's about **distribution**.
+The difference between 25 and 20 full weeks isn't about total days off — it's about **distribution**.
 
-**PPS has 8 early-dismissal Fridays** scattered throughout the year for teacher professional development. Each one wrecks an otherwise full week. Winchester Thurston bundles its teacher days into full closures alongside existing breaks. That approach is more disruptive per event but **breaks fewer total weeks**.
+**The public district has 8 early-dismissal Fridays** scattered throughout the year for teacher professional development. Each one wrecks an otherwise full week. The private school bundles its teacher days into full closures alongside existing breaks. That approach is more disruptive per event but **breaks fewer total weeks**.
 
-PPS also observes more individual holidays: Veterans Day, Election Day (twice — November and May), Eid al-Fitr. Plus a post-Thanksgiving Monday vacation day that turns a 2-day break into a week-breaker by contaminating the following week.
+The public district also observes more individual holidays: Veterans Day, Election Day (twice — November and May), and additional religious holidays. Plus a post-Thanksgiving Monday vacation day that turns a 2-day break into a week-breaker by contaminating the following week.
 
-Meanwhile, WT's calendar has its own quirks. A **two-week spring break** (March 23 – April 3) is generous by any standard — PPS gives one week. And WT takes the full Thanksgiving week off where PPS only closes Thursday–Friday (but then takes Monday of the following week, breaking *two* weeks instead of one).
+Meanwhile, the private school's calendar has its own quirks. A **two-week spring break** (March 23 – April 3) is generous by any standard — the public district gives one week. And the private school takes the full Thanksgiving week off where the public district only closes Thursday–Friday (but then takes Monday of the following week, breaking *two* weeks instead of one).
 
 ### The "Death by a Thousand Cuts" Pattern
 
-The total non-school days are similar (WT ~36, PPS ~44). But PPS distributes them in the most fragmenting way possible — a half-day Friday here, an Election Day Tuesday there, a lone clerical day on a Thursday. Each one is small. Together, they turn 48% of the school year into interrupted weeks.
+The total non-school days are similar (~36 vs ~44). But the public district distributes them in the most fragmenting way possible — a half-day Friday here, an Election Day Tuesday there, a lone clerical day on a Thursday. Each one is small. Together, they turn 48% of the school year into interrupted weeks.
 
 ---
 
@@ -172,7 +171,7 @@ The total non-school days are similar (WT ~36, PPS ~44). But PPS distributes the
 
 The best published data comes from a [Fairfax County (VA) analysis](https://www.fairfaxtimes.com/articles/fix-the-calendar-fairfax-families-need-consistent-school-weeks/article_38ad9791-4656-483e-a77e-9e0699b01977.html) — one of the only districts to publicly quantify this problem. They found that **only 52% of school weeks are full 5-day weeks**, and that the number of non-instructional days has risen from ~28 to ~40 per year over the past decade.
 
-PPS maps almost exactly to this figure (48%). WT (61%) is better than average. The national picture, based on the standard 180-day school year:
+Our public district maps almost exactly to this figure (48%). The private school (61%) is better than average. The national picture, based on the standard 180-day school year:
 
 - **180 instructional days** = 36 weeks of school (the [national standard](https://www.pewresearch.org/short-reads/2023/09/07/in-the-u-s-180-days-of-school-is-most-common-but-length-of-school-day-varies-by-state/) in 27 states)
 - Those 36 weeks are spread across **~40–42 calendar weeks** (late August through mid-June)
@@ -188,14 +187,14 @@ There is no comprehensive national study on this metric. The Fairfax data is the
 
 Perhaps the most telling metric: how many consecutive full weeks can kids string together?
 
-| Period | WT | PPS |
+| Period | Private School | Public District |
 |---|---|---|
 | Longest streak | **5 weeks** (Apr 20–May 22) | **6 weeks** (Apr 6–May 15) |
 | 2nd longest | 3 weeks (three times) | 2 weeks (several times) |
 
-Ironically, PPS's longest streak (6 weeks) is longer than WT's (5 weeks). Spring is where both calendars finally leave kids alone — the stretch between spring break and Memorial Day is the calmest part of the year.
+Ironically, the public district's longest streak (6 weeks) is longer than the private school's (5 weeks). Spring is where both calendars finally leave kids alone — the stretch between spring break and Memorial Day is the calmest part of the year.
 
-But in the fall? From Labor Day through Thanksgiving, WT manages three 2–3 week streaks. PPS never gets past 2 consecutive full weeks. The early-dismissal Fridays make it impossible.
+But in the fall? From Labor Day through Thanksgiving, the private school manages three 2–3 week streaks. The public district never gets past 2 consecutive full weeks. The early-dismissal Fridays make it impossible.
 
 ---
 
@@ -203,10 +202,10 @@ But in the fall? From Labor Day through Thanksgiving, WT manages three 2–3 wee
 
 This isn't a critique of any particular school. Holidays matter. Teacher professional development matters. Religious observances matter. The question is whether the *distribution* of these days is optimal.
 
-A school that clusters its non-instructional days around existing breaks (as WT tends to) preserves more unbroken weeks. A school that scatters them evenly (as PPS does with monthly early-dismissal Fridays) maximizes the number of weeks that feel fragmented.
+A school that clusters its non-instructional days around existing breaks preserves more unbroken weeks. A school that scatters them evenly (like monthly early-dismissal Fridays) maximizes the number of weeks that feel fragmented.
 
 For families — especially those managing childcare, work schedules, and the routines that help kids (and parents) with ADHD — the difference between 20 and 25 full weeks is enormous. That's five more weeks per year where the rhythm holds.
 
 ---
 
-*This analysis was co-authored by Tim and BrownBear (Claude). Data sourced from official school calendars for the 2025–2026 school year. National data from Pew Research Center and Fairfax County Public Schools. If you spot an error in our week-by-week count, we'd love to hear about it.*
+*This analysis was co-authored by a human and an AI agent (Claude). Data sourced from official school calendars for the 2025–2026 school year. National data from Pew Research Center and Fairfax County Public Schools. If you spot an error in our week-by-week count, we'd love to hear about it.*
