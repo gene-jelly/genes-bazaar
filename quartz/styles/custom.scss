@@ -1,3 +1,89 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Gene's Bazaar — warm, handcrafted, eclectic
+// Parchment tones with jewel-toned accents
+
+// Subtle parchment texture effect on the page background
+body {
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(184, 134, 11, 0.03) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 20%, rgba(139, 69, 19, 0.03) 0%, transparent 50%);
+}
+
+// Article content refinements
+.center {
+  article {
+    // Drop caps on first paragraph
+    > p:first-of-type::first-letter {
+      float: left;
+      font-family: var(--headerFont);
+      font-size: 3.5em;
+      line-height: 0.8;
+      padding-right: 0.08em;
+      padding-top: 0.05em;
+      color: var(--secondary);
+    }
+
+    // Horizontal rules as ornamental dividers
+    hr {
+      border: none;
+      text-align: center;
+      margin: 2rem 0;
+
+      &::after {
+        content: "~ ~ ~";
+        letter-spacing: 0.5em;
+        color: var(--gray);
+        font-family: var(--headerFont);
+        font-style: italic;
+      }
+    }
+  }
+}
+
+// Table styling — cleaner, warmer
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+
+  th {
+    background-color: var(--highlight);
+    font-family: var(--headerFont);
+    font-weight: 600;
+    text-align: left;
+    padding: 0.6rem 0.8rem;
+    border-bottom: 2px solid var(--secondary);
+  }
+
+  td {
+    padding: 0.5rem 0.8rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  tr:hover td {
+    background-color: var(--highlight);
+  }
+}
+
+// Page title styling
+h1 {
+  font-style: italic;
+  letter-spacing: -0.01em;
+}
+
+// Blockquote as "aside" styling
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background: var(--highlight);
+  padding: 1rem 1.5rem;
+  border-radius: 0 4px 4px 0;
+  font-style: italic;
+}
+
+// Footer warmth
+footer {
+  opacity: 0.7;
+  font-size: 0.85rem;
+}
