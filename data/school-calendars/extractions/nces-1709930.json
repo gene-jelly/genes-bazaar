@@ -1,0 +1,1687 @@
+{
+  "district_name": "Chicago Public Schools (City of Chicago SD 299)",
+  "district_id": "nces:1709930",
+  "school_year": "2025-2026",
+  "grade_band_used": "unified",
+  "first_day_of_school": "2025-08-18",
+  "last_day_of_school": "2026-06-04",
+  "extraction_model": "claude-opus-4-6",
+  "extraction_date": "2026-04-05",
+  "source_url": "https://www.cps.edu/globalassets/cps-pages/calendar/25-26/cps-family-calendar-english-25-26.pdf",
+  "days": [
+    {
+      "date": "2025-08-18",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "First day of school (+)",
+      "confidence": "high",
+      "notes": "First day of school per CPS legend"
+    },
+    {
+      "date": "2025-08-19",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-08-20",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-08-21",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-08-22",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-08-25",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-08-26",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-08-27",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-08-28",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-08-29",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-01",
+      "weekday": "Monday",
+      "day_type": "holiday",
+      "source_label": "Labor Day",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-02",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-03",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-04",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-05",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-08",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-09",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-10",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-11",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-12",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-15",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-16",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-17",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-18",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-19",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-22",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-23",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-24",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-25",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-26",
+      "weekday": "Friday",
+      "day_type": "teacher_only",
+      "source_label": "Professional Development Day",
+      "confidence": "high",
+      "notes": "PD day per CPS calendar text"
+    },
+    {
+      "date": "2025-09-29",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-09-30",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-01",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-02",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-03",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-06",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-07",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-08",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-09",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-10",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-13",
+      "weekday": "Monday",
+      "day_type": "holiday",
+      "source_label": "Indigenous Peoples' Day",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-14",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-15",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-16",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-17",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-20",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-21",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-22",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-23",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-24",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-27",
+      "weekday": "Monday",
+      "day_type": "teacher_only",
+      "source_label": "Parent-Teacher Conference Day (PT)",
+      "confidence": "high",
+      "notes": "Non-attendance day for students; PT conference"
+    },
+    {
+      "date": "2025-10-28",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-29",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-30",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-10-31",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-03",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-04",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-05",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-06",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-11",
+      "weekday": "Tuesday",
+      "day_type": "holiday",
+      "source_label": "Veterans Day",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-13",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-14",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-17",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-18",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-19",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-20",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-21",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-24",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-25",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-26",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-27",
+      "weekday": "Thursday",
+      "day_type": "holiday",
+      "source_label": "Thanksgiving Holiday",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-11-28",
+      "weekday": "Friday",
+      "day_type": "holiday",
+      "source_label": "Thanksgiving Holiday",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-01",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-02",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-03",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-04",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-05",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-08",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-09",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-10",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-11",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-12",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-15",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-16",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-17",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-18",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-19",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-22",
+      "weekday": "Monday",
+      "day_type": "break",
+      "source_label": "Winter vacation (Dec 22, 2025 \u2013 Jan 2, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-23",
+      "weekday": "Tuesday",
+      "day_type": "break",
+      "source_label": "Winter vacation (Dec 22, 2025 \u2013 Jan 2, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-24",
+      "weekday": "Wednesday",
+      "day_type": "break",
+      "source_label": "Winter vacation (Dec 22, 2025 \u2013 Jan 2, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-25",
+      "weekday": "Thursday",
+      "day_type": "break",
+      "source_label": "Winter vacation (Dec 22, 2025 \u2013 Jan 2, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-26",
+      "weekday": "Friday",
+      "day_type": "break",
+      "source_label": "Winter vacation (Dec 22, 2025 \u2013 Jan 2, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-29",
+      "weekday": "Monday",
+      "day_type": "break",
+      "source_label": "Winter vacation (Dec 22, 2025 \u2013 Jan 2, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-30",
+      "weekday": "Tuesday",
+      "day_type": "break",
+      "source_label": "Winter vacation (Dec 22, 2025 \u2013 Jan 2, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2025-12-31",
+      "weekday": "Wednesday",
+      "day_type": "break",
+      "source_label": "Winter vacation (Dec 22, 2025 \u2013 Jan 2, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-01",
+      "weekday": "Thursday",
+      "day_type": "break",
+      "source_label": "Winter vacation (Dec 22, 2025 \u2013 Jan 2, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-02",
+      "weekday": "Friday",
+      "day_type": "break",
+      "source_label": "Winter vacation (Dec 22, 2025 \u2013 Jan 2, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-05",
+      "weekday": "Monday",
+      "day_type": "teacher_only",
+      "source_label": "Professional Development Day",
+      "confidence": "high",
+      "notes": "PD day per CPS calendar text"
+    },
+    {
+      "date": "2026-01-06",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-07",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-08",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-09",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-12",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-13",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-14",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-15",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-16",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-19",
+      "weekday": "Monday",
+      "day_type": "holiday",
+      "source_label": "Martin Luther King Jr. Day",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-20",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-21",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-22",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-23",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-26",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-27",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-28",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-29",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-01-30",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-02",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-03",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-04",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-05",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-06",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-09",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-10",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-11",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-12",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-13",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-16",
+      "weekday": "Monday",
+      "day_type": "holiday",
+      "source_label": "Presidents' Day",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-17",
+      "weekday": "Tuesday",
+      "day_type": "teacher_only",
+      "source_label": "Professional Development Day",
+      "confidence": "high",
+      "notes": "PD day per CPS calendar text"
+    },
+    {
+      "date": "2026-02-18",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-19",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-20",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-23",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-24",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-25",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-26",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-02-27",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-02",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-03",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-04",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-05",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-06",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-09",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-10",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-11",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-12",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-13",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-16",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-17",
+      "weekday": "Tuesday",
+      "day_type": "teacher_only",
+      "source_label": "Professional Development Day",
+      "confidence": "high",
+      "notes": "PD day per CPS calendar text"
+    },
+    {
+      "date": "2026-03-18",
+      "weekday": "Wednesday",
+      "day_type": "teacher_only",
+      "source_label": "Parent-Teacher Conference Day / LSC Elections (PT LSC)",
+      "confidence": "high",
+      "notes": "Non-attendance day for students; PT conference + Local School Council Elections"
+    },
+    {
+      "date": "2026-03-19",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-20",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-23",
+      "weekday": "Monday",
+      "day_type": "break",
+      "source_label": "Spring vacation (Mar 23\u201327, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-24",
+      "weekday": "Tuesday",
+      "day_type": "break",
+      "source_label": "Spring vacation (Mar 23\u201327, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-25",
+      "weekday": "Wednesday",
+      "day_type": "break",
+      "source_label": "Spring vacation (Mar 23\u201327, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-26",
+      "weekday": "Thursday",
+      "day_type": "break",
+      "source_label": "Spring vacation (Mar 23\u201327, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-27",
+      "weekday": "Friday",
+      "day_type": "break",
+      "source_label": "Spring vacation (Mar 23\u201327, 2026)",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-30",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-03-31",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-01",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-02",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-03",
+      "weekday": "Friday",
+      "day_type": "teacher_only",
+      "source_label": "Professional Development Day",
+      "confidence": "high",
+      "notes": "PD day per CPS calendar text (also Good Friday; CPS does not list Good Friday as a holiday in legend)"
+    },
+    {
+      "date": "2026-04-06",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-07",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-08",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-09",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-10",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-13",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-14",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-15",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-16",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-17",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-20",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-21",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-22",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-23",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-24",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-27",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-28",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-29",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-04-30",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-01",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-04",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-05",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-06",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-07",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-08",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-11",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-12",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-13",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-14",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-15",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-18",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-19",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-20",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-21",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-25",
+      "weekday": "Monday",
+      "day_type": "holiday",
+      "source_label": "Memorial Day",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-29",
+      "weekday": "Friday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-01",
+      "weekday": "Monday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-02",
+      "weekday": "Tuesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-03",
+      "weekday": "Wednesday",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-04",
+      "weekday": "Thursday",
+      "day_type": "full_instructional",
+      "source_label": "Last day of school (\u25b4); End of Q4",
+      "confidence": "high",
+      "notes": "Last day of school per CPS legend; full day of school"
+    }
+  ],
+  "extraction_notes": "Extracted from CPS 2025-26 Family Calendar PDF (last update 7.21.25). CPS legend lists 8 holidays: Labor Day, Indigenous Peoples' Day, Veterans Day, Thanksgiving (Nov 27-28), MLK, Presidents' Day, Memorial Day, Juneteenth (outside school-year range). Pulaski Day is NOT observed by CPS (students attend March 2, 2026). Good Friday (April 3, 2026) coincides with a scheduled Professional Development Day, classified as teacher_only \u2014 CPS does not list Good Friday as a holiday in the legend. 12 PD days listed in text; those within the school year (Sept 26, Jan 5, Feb 17, Mar 17, Apr 3) are mapped to teacher_only. Parent-Teacher Conference days (Oct 27, Mar 18) are explicit 'non-attendance days for students' and mapped to teacher_only. LSC Elections coincide with March 18 PT day. No early_release / half days found in the calendar. Emergency (E) days and June 5/8 PD days fall after last day of school and are outside the 8/18-6/4 range. Eid is not observed on the CPS family calendar for 2025-26 (no Eid marker in legend).",
+  "ambiguous_day_count": 0
+}

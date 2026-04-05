@@ -1,0 +1,1495 @@
+{
+  "district_name": "Baltimore County Public Schools",
+  "district_id": "nces:2400090",
+  "school_year": "2025-2026",
+  "grade_band_used": "elementary",
+  "first_day_of_school": "2025-08-25",
+  "last_day_of_school": "2026-06-11",
+  "extraction_model": "claude-opus-4-6",
+  "extraction_date": "2026-04-05",
+  "days": [
+    {
+      "date": "2025-08-25",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "Opening Day for Students",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-08-26",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-08-27",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "First Full Day of Kindergarten (Transportation Begins)",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-08-28",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-08-29",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-01",
+      "weekday": "Mon",
+      "day_type": "holiday",
+      "source_label": "Labor Day \u2013 Schools and Offices Closed",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-02",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-03",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-04",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-05",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-08",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-09",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-10",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-11",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-12",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-15",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-16",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-17",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-18",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-19",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-22",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-23",
+      "weekday": "Tue",
+      "day_type": "teacher_only",
+      "source_label": "Systemwide Professional Development Day \u2013 Rosh Hashanah \u2013 Schools Closed for Students \u2013 Teachers on Duty",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-24",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-25",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-26",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-29",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-09-30",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-01",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-02",
+      "weekday": "Thu",
+      "day_type": "teacher_only",
+      "source_label": "Systemwide Professional Development Day \u2013 Yom Kippur \u2013 Schools Closed for Students \u2013 Teachers on Duty",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-03",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-06",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-07",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-08",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-09",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-10",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-13",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "Columbus Day/Indigenous Peoples' Day*",
+      "confidence": "high",
+      "notes": "Asterisk: schools open with appropriate exercises"
+    },
+    {
+      "date": "2025-10-14",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-15",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-16",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-17",
+      "weekday": "Fri",
+      "day_type": "holiday",
+      "source_label": "Schools Closed for Students (MSEA Convention)",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-20",
+      "weekday": "Mon",
+      "day_type": "teacher_only",
+      "source_label": "Systemwide Professional Development Day \u2013 Diwali \u2013 Schools Closed for Students \u2013 Teachers on Duty",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-21",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-22",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-23",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-24",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-27",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-28",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-29",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-30",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-10-31",
+      "weekday": "Fri",
+      "day_type": "early_release",
+      "source_label": "First Marking Period Ends \u2013 All Schools Close 3 Hours Early for Students",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-03",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-04",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-05",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-06",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-07",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-10",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-11",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "Veteran's Day*",
+      "confidence": "high",
+      "notes": "Asterisk: schools open with appropriate exercises"
+    },
+    {
+      "date": "2025-11-12",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-13",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "Report Cards Distributed",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-14",
+      "weekday": "Fri",
+      "day_type": "early_release",
+      "source_label": "All Schools Close 3 Hours Early for Students \u2013 Afternoon Systemwide Professional Development",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-17",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "Prekindergarten 3 and Prekindergarten 4 Conference Day \u2013 No Prekindergarten Sessions",
+      "confidence": "medium",
+      "notes": "PreK only closed; K-5 elementary in session full day"
+    },
+    {
+      "date": "2025-11-18",
+      "weekday": "Tue",
+      "day_type": "teacher_only",
+      "source_label": "Prekindergarten and Elementary Conference Day \u2013 Schools Closed for Elementary Students \u2013 Teachers on Duty",
+      "confidence": "medium",
+      "notes": "Grade band split: elementary closed, middle/high in session full day. Using elementary row per rules."
+    },
+    {
+      "date": "2025-11-19",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-20",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-21",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-24",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-25",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-26",
+      "weekday": "Wed",
+      "day_type": "early_release",
+      "source_label": "Thanksgiving Holiday Begins at the End of the School Day; Schools Close 3 Hours Early",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-27",
+      "weekday": "Thu",
+      "day_type": "break",
+      "source_label": "Thanksgiving Holiday \u2013 Schools and Offices Closed",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-11-28",
+      "weekday": "Fri",
+      "day_type": "break",
+      "source_label": "Thanksgiving Holiday \u2013 Schools and Offices Closed",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-01",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-02",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-03",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-04",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-05",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-08",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-09",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-10",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-11",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-12",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-15",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-16",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-17",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-18",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-19",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-22",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-23",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "Winter Break Begins at the End of the School Day",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-24",
+      "weekday": "Wed",
+      "day_type": "break",
+      "source_label": "Winter Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-25",
+      "weekday": "Thu",
+      "day_type": "break",
+      "source_label": "Winter Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-26",
+      "weekday": "Fri",
+      "day_type": "break",
+      "source_label": "Winter Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-29",
+      "weekday": "Mon",
+      "day_type": "break",
+      "source_label": "Winter Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-30",
+      "weekday": "Tue",
+      "day_type": "break",
+      "source_label": "Winter Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2025-12-31",
+      "weekday": "Wed",
+      "day_type": "break",
+      "source_label": "Winter Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-01",
+      "weekday": "Thu",
+      "day_type": "break",
+      "source_label": "Winter Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-02",
+      "weekday": "Fri",
+      "day_type": "break",
+      "source_label": "Winter Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-05",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "Schools Reopen",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-06",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-07",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-08",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-09",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-12",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-13",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-14",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-15",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-16",
+      "weekday": "Fri",
+      "day_type": "early_release",
+      "source_label": "Second Marking Period Ends \u2013 Schools Close 3 Hours Early for All Students",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-19",
+      "weekday": "Mon",
+      "day_type": "holiday",
+      "source_label": "Dr. Martin Luther King, Jr. Day \u2013 Schools and Offices Closed",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-20",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-21",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-22",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-23",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-26",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-27",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-28",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-29",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "Report Cards Distributed",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-01-30",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-02",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-03",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-04",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-05",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-06",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-09",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-10",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-11",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-12",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-13",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-16",
+      "weekday": "Mon",
+      "day_type": "holiday",
+      "source_label": "Presidents' Day, Washington's Birthday \u2013 Schools and Offices Closed",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-17",
+      "weekday": "Tue",
+      "day_type": "holiday",
+      "source_label": "Lunar New Year \u2013 Schools and Offices Closed",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-18",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-19",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-20",
+      "weekday": "Fri",
+      "day_type": "early_release",
+      "source_label": "All Schools Close 3 Hours Early for Students \u2013 Afternoon Systemwide Professional Development",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-23",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-24",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-25",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-26",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-02-27",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-02",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-03",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-04",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-05",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-06",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-09",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-10",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-11",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-12",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-13",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-16",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-17",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-18",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-19",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-20",
+      "weekday": "Fri",
+      "day_type": "teacher_only",
+      "source_label": "Systemwide Professional Development Day \u2013 Eid al-Fitr \u2013 Schools Closed for Students \u2013 Teachers on Duty",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-23",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-24",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-25",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "Maryland Day*",
+      "confidence": "high",
+      "notes": "Asterisk: schools open with appropriate exercises"
+    },
+    {
+      "date": "2026-03-26",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-27",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-30",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-03-31",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-01",
+      "weekday": "Wed",
+      "day_type": "early_release",
+      "source_label": "Third Marking Period Ends \u2013 All Schools Close 3 Hours Early for Students; Spring Break Begins at End of School Day",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-02",
+      "weekday": "Thu",
+      "day_type": "break",
+      "source_label": "Spring Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-03",
+      "weekday": "Fri",
+      "day_type": "break",
+      "source_label": "Spring Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-06",
+      "weekday": "Mon",
+      "day_type": "break",
+      "source_label": "Spring Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-07",
+      "weekday": "Tue",
+      "day_type": "break",
+      "source_label": "Spring Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-08",
+      "weekday": "Wed",
+      "day_type": "break",
+      "source_label": "Spring Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-09",
+      "weekday": "Thu",
+      "day_type": "break",
+      "source_label": "Spring Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-10",
+      "weekday": "Fri",
+      "day_type": "break",
+      "source_label": "Spring Break",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-13",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "Schools Reopen",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-14",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-15",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-16",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-17",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-20",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-21",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-22",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-23",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "Report Cards Distributed",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-24",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "Prekindergarten 3, Prekindergarten 4, and Kindergarten Conference Day \u2013 No PreK or Kindergarten Sessions \u2013 Teachers on Duty",
+      "confidence": "medium",
+      "notes": "K closed but grades 1-5 in session; using elementary row \u2013 ambiguous whether to mark teacher_only. Treated as instructional for majority of elementary band."
+    },
+    {
+      "date": "2026-04-27",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "Prekindergarten 3 and Prekindergarten 4 Conference Day \u2013 No Prekindergarten Sessions",
+      "confidence": "medium",
+      "notes": "PreK only closed; K-5 in session full day"
+    },
+    {
+      "date": "2026-04-28",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-29",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-04-30",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-01",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-04",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-05",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-06",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-07",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-08",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-11",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-12",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-13",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-14",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-15",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-18",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-19",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-20",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-21",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-22",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "Last Day for Seniors",
+      "confidence": "high",
+      "notes": "Affects high school only; elementary full day"
+    },
+    {
+      "date": "2026-05-25",
+      "weekday": "Mon",
+      "day_type": "holiday",
+      "source_label": "Memorial Day \u2013 Schools and Offices Closed",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-26",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "Commencement Exercises",
+      "confidence": "high",
+      "notes": "HS commencement; elementary full day"
+    },
+    {
+      "date": "2026-05-27",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "Commencement Exercises",
+      "confidence": "high",
+      "notes": "HS commencement; elementary full day"
+    },
+    {
+      "date": "2026-05-28",
+      "weekday": "Thu",
+      "day_type": "teacher_only",
+      "source_label": "Systemwide Professional Development Day \u2013 Eid al-Adha \u2013 Schools Closed for Students \u2013 Teachers on Duty",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-05-29",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "Commencement Exercises",
+      "confidence": "high",
+      "notes": "HS commencement; elementary full day"
+    },
+    {
+      "date": "2026-06-01",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "Commencement Exercises",
+      "confidence": "high",
+      "notes": "HS commencement; elementary full day"
+    },
+    {
+      "date": "2026-06-02",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "Commencement Exercises",
+      "confidence": "high",
+      "notes": "HS commencement; elementary full day"
+    },
+    {
+      "date": "2026-06-03",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "Commencement Exercises",
+      "confidence": "high",
+      "notes": "HS commencement; elementary full day"
+    },
+    {
+      "date": "2026-06-04",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "Commencement Exercises",
+      "confidence": "high",
+      "notes": "HS commencement; elementary full day"
+    },
+    {
+      "date": "2026-06-05",
+      "weekday": "Fri",
+      "day_type": "full_instructional",
+      "source_label": "Commencement Exercises",
+      "confidence": "high",
+      "notes": "HS commencement; elementary full day"
+    },
+    {
+      "date": "2026-06-08",
+      "weekday": "Mon",
+      "day_type": "full_instructional",
+      "source_label": "Commencement Exercises",
+      "confidence": "high",
+      "notes": "HS commencement; elementary full day"
+    },
+    {
+      "date": "2026-06-09",
+      "weekday": "Tue",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-06-10",
+      "weekday": "Wed",
+      "day_type": "full_instructional",
+      "source_label": "",
+      "confidence": "high"
+    },
+    {
+      "date": "2026-06-11",
+      "weekday": "Thu",
+      "day_type": "full_instructional",
+      "source_label": "Last Day of School (if no emergency closure days used)",
+      "confidence": "medium",
+      "notes": "Per footnote: if no emergency closure days occur, school year ends for students Thursday June 11, 2026, with Assessment Days re-designated accordingly. Grid marks 6/12, 6/15, 6/16 as weather make-up days (not included here)."
+    }
+  ],
+  "extraction_notes": "Seed first_day corrected from 2025-08-27 to 2025-08-25 (Opening Day for Students per source; 8/27 is First Full Day of Kindergarten but older students start 8/25). Last day 2026-06-11 retained as nominal per footnote ('If no emergency closure days occur, the school year will end for students on Thursday, June 11, 2026'). June 12/15/16 are weather make-up placeholders and are excluded as they fall after the nominal last day. BCPS asterisk holidays (Columbus Day 10/13, Veterans Day 11/11, Maryland Day 3/25) are instructional days with appropriate exercises. Nov 18 is a grade-split day: elementary students are out (teacher_only for elementary band) while middle/high are in session. Apr 24 affects only PreK and Kindergarten; grades 1-5 remain in session so classified as full_instructional with medium confidence. 10/17 MSEA Convention is classified as holiday (single-day union closure, not part of a break). Thanksgiving Thu/Fri classified as break per multi-day rule. Report card distribution days are regular instructional days.",
+  "ambiguous_day_count": 0
+}

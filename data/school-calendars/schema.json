@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "School Calendar Fragmentation Dataset",
+  "description": "One row per district, one school year. Phase 1 covers 2025-2026.",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "columns": {
+    "rank": {
+      "type": "integer",
+      "description": "Enrollment rank among US districts (1 = largest). Source: NCES CCD most recent available year."
+    },
+    "district_name": {
+      "type": "string",
+      "description": "Official district name as published by NCES."
+    },
+    "district_id": {
+      "type": "string",
+      "description": "Prefixed district identifier. Format: '{source}:{id}'. Supported prefixes: 'nces:' (NCES CCD LEA ID for US public districts), 'pss:' (NCES Private School Survey ID for private schools), 'manual:' (hand-assigned ID for districts/schools not in either federal source). Designed for forward-compatibility across public, private, charter, and international calendars."
+    },
+    "state": {
+      "type": "string",
+      "description": "Two-letter state code."
+    },
+    "enrollment": {
+      "type": "integer",
+      "description": "Total student enrollment, most recent NCES year available at time of extraction."
+    },
+    "school_year": {
+      "type": "string",
+      "description": "Academic year the calendar covers, e.g., '2025-2026'."
+    },
+    "calendar_source_url": {
+      "type": "string",
+      "description": "Direct URL to the official calendar document as published by the district."
+    },
+    "calendar_source_format": {
+      "type": "string",
+      "enum": ["HTML", "PDF", "interactive_widget", "image_only"],
+      "description": "Format of the source document."
+    },
+    "first_day_of_school": {
+      "type": "string",
+      "format": "date",
+      "description": "First instructional day for students, ISO 8601."
+    },
+    "last_day_of_school": {
+      "type": "string",
+      "format": "date",
+      "description": "Last instructional day for students, ISO 8601."
+    },
+    "total_weekdays_in_school_year": {
+      "type": "integer",
+      "description": "Count of Monday-Friday weekdays between first_day_of_school and last_day_of_school, inclusive."
+    },
+    "total_calendar_weeks": {
+      "type": "integer",
+      "description": "Count of Mon-Fri blocks between first and last instructional day. Partial start/end weeks are excluded."
+    },
+    "total_instructional_days": {
+      "type": "integer",
+      "description": "Count of days students are scheduled to attend for full-day instruction. Excludes holidays, breaks, teacher-only days, and early release days."
+    },
+    "unbroken_five_day_weeks": {
+      "type": "integer",
+      "description": "PRIMARY METRIC. Count of Mon-Fri blocks in which all five weekdays are full instructional days — no holidays, half-days, early dismissals, teacher workdays, or modified schedules."
+    },
+    "percent_weeks_unbroken": {
+      "type": "number",
+      "description": "unbroken_five_day_weeks / total_calendar_weeks, as a percentage rounded to 1 decimal place."
+    },
+    "longest_unbroken_streak": {
+      "type": "integer",
+      "description": "Longest consecutive run of unbroken five-day weeks."
+    },
+    "early_release_day_count": {
+      "type": "integer",
+      "description": "Days where students attend but are dismissed early. Includes 'minimum days,' 'early dismissal,' half-days (when students are present for part of the day), and parent-teacher conference shortened days."
+    },
+    "teacher_only_day_count": {
+      "type": "integer",
+      "description": "Days where students do not attend but staff do: professional development days, in-service days, institute days, clerical days, teacher workdays."
+    },
+    "holiday_day_count": {
+      "type": "integer",
+      "description": "Federal, state, local, and religious holidays observed as full school closures."
+    },
+    "break_day_count": {
+      "type": "integer",
+      "description": "Full days off for multi-day breaks (Thanksgiving week, winter break, spring break, mid-winter break)."
+    },
+    "total_non_instructional_days": {
+      "type": "integer",
+      "description": "Sum of holiday_day_count + break_day_count + teacher_only_day_count + early_release_day_count (where early release is counted as a fractional day lost; see methodology.md)."
+    },
+    "has_multiple_calendars": {
+      "type": "boolean",
+      "description": "True if district runs separate calendars for different grade bands (e.g., elementary vs. high school with different early-dismissal schedules). If true, this row reflects the dominant/most-common calendar; see per-district dossier for details."
+    },
+    "extracted_at": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the calendar was parsed, ISO 8601."
+    },
+    "human_verified": {
+      "type": "boolean",
+      "description": "Whether a human has reviewed the LLM extraction against the source calendar."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Free-text field for unusual patterns, judgment calls, or caveats specific to this row."
+    }
+  }
+}
