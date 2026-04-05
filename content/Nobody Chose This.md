@@ -3,7 +3,8 @@ title: "Nobody Chose This: How America Ended Up With a School Calendar Nobody De
 description: "The American school year is fragmented in a way no stakeholder group actively defends on the merits. Here's the hidden mechanism — and the single vote that can begin to fix it."
 date: 2026-04-05
 tags:
-  - education
+  - schools
+  - calendar-fragmentation
   - policy
   - essay
 ---

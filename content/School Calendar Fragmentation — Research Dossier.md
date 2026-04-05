@@ -3,8 +3,9 @@ title: "The Swiss Cheese School Year: A Research Dossier on Calendar Fragmentati
 description: "A structured reference doc on US school calendar fragmentation — scope, causes, costs, international comparison, and concrete fixes. Source material for the accompanying essay."
 date: 2026-04-04
 tags:
+  - schools
+  - calendar-fragmentation
   - research
-  - education
   - data-analysis
   - policy
   - dossier

@@ -3,8 +3,9 @@ title: "The Swiss Cheese School Year: How Many Weeks Are Actually Full Weeks?"
 description: "A week-by-week analysis of school calendar fragmentation comparing a private school, a public district, and the national average."
 date: 2026-04-04
 tags:
+  - schools
+  - calendar-fragmentation
   - research
-  - education
   - data-analysis
 ---
 
