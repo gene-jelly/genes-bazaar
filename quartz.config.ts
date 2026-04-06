@@ -21,32 +21,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Playfair Display",
-        body: "Crimson Pro",
+        header: { name: "IM Fell English SC", weights: [400] },
+        body: { name: "IM Fell English", weights: [400], includeItalic: true },
         code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#fdf6e3",
-          lightgray: "#e8dcc8",
-          gray: "#b8a88a",
-          darkgray: "#4a3f35",
-          dark: "#2c241c",
-          secondary: "#8b4513",
-          tertiary: "#b8860b",
-          highlight: "rgba(184, 134, 11, 0.12)",
-          textHighlight: "#ffd70044",
+          light: "#f0e8d0",       // aged paper stock — dirtier than parchment
+          lightgray: "#d4c9a8",   // visible rule lines, like aged margins
+          gray: "#8a7d65",        // muted annotations
+          darkgray: "#2c2416",    // near-black letterpress ink
+          dark: "#1a1408",        // deep ink for headers
+          secondary: "#8b1a1a",   // dark red — Chaos stars, blood, drop caps
+          tertiary: "#5c3317",    // dark brown — leather binding, tertiary links
+          highlight: "rgba(139, 26, 26, 0.08)",
+          textHighlight: "rgba(139, 26, 26, 0.15)",
         },
         darkMode: {
-          light: "#1a1410",
-          lightgray: "#332b22",
-          gray: "#7a6b5a",
-          darkgray: "#d4c8b8",
-          dark: "#f0e6d6",
-          secondary: "#d4a050",
-          tertiary: "#c4956a",
-          highlight: "rgba(212, 160, 80, 0.12)",
-          textHighlight: "#d4a05044",
+          light: "#1a150e",       // near-black aged paper
+          lightgray: "#2e2820",   // dark rule lines
+          gray: "#6b6050",        // muted
+          darkgray: "#d8cdb8",    // aged ink on dark stock
+          dark: "#ece0c8",        // light headers on dark
+          secondary: "#c44040",   // brighter red for dark mode legibility
+          tertiary: "#a07050",    // warm brown
+          highlight: "rgba(196, 64, 64, 0.10)",
+          textHighlight: "rgba(196, 64, 64, 0.18)",
         },
       },
     },

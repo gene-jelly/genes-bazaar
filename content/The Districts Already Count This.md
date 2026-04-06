@@ -28,6 +28,8 @@ We extracted the 2025–2026 school calendars for the 23 largest US public schoo
 
 This is the strict definition, and that is the point. A working parent planning childcare, a hourly worker trying to hold a schedule, a kid with executive function challenges trying to settle into a rhythm — none of them benefit from a week that was "mostly" full. They benefit from the weeks where the routine actually holds.
 
+<div class="school-calendar-chart"></div>
+
 Here is what the top 23 look like, sorted from most fragmented to least:
 
 | Rank | District | State | Unbroken weeks | % | Longest streak |

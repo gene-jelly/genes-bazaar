@@ -1,0 +1,267 @@
+{
+  "districts": [
+    {
+      "id": "nces:1301320",
+      "name": "Cobb County School District",
+      "state": "GA",
+      "pct": 73.2,
+      "streak": 6,
+      "weeks": "uuuuhuubuuuuutuubuuebbtuhuuubuuuuuubuuuuu",
+      "week_count": 41,
+      "first_monday": "2025-08-04",
+      "offset": 0
+    },
+    {
+      "id": "nces:1302010",
+      "name": "Gwinnett County Public Schools",
+      "state": "GA",
+      "pct": 70.7,
+      "streak": 5,
+      "weeks": "uuuuhuuuubbeuuuubuuubbuuhuubbueuuuubuuuuu",
+      "week_count": 41,
+      "first_monday": "2025-08-04",
+      "offset": 0
+    },
+    {
+      "id": "nces:1500030",
+      "name": "Hawaii State Department of Education",
+      "state": "HI",
+      "pct": 69.0,
+      "streak": 7,
+      "weeks": "uhuuhuuuubuuuuhuhuuubbtuhuuuhuuubhhuuuuuuu",
+      "week_count": 42,
+      "first_monday": "2025-08-04",
+      "offset": 0
+    },
+    {
+      "id": "nces:4702940",
+      "name": "Memphis-Shelby County Schools",
+      "state": "TN",
+      "pct": 68.3,
+      "streak": 5,
+      "weeks": "uuuuhuuuuubuuuhubuuubbbuhuuthuuububbuuuuu",
+      "week_count": 41,
+      "first_monday": "2025-08-04",
+      "offset": 0
+    },
+    {
+      "id": "nces:4823640",
+      "name": "Houston Independent School District",
+      "state": "TX",
+      "pct": 68.3,
+      "streak": 7,
+      "weeks": "uuhuuuhuuuutuubuuubbtuhuuthuubuuhuuuuuuuh",
+      "week_count": 41,
+      "first_monday": "2025-08-18",
+      "offset": 2
+    },
+    {
+      "id": "nces:1201170",
+      "name": "School District of Palm Beach County",
+      "state": "FL",
+      "pct": 64.3,
+      "streak": 7,
+      "weeks": "uuuhuuhhutuuutubuuubbtuhuuutuuubthuuuuuuuh",
+      "week_count": 42,
+      "first_monday": "2025-08-11",
+      "offset": 1
+    },
+    {
+      "id": "nces:1200600",
+      "name": "Duval County Public Schools",
+      "state": "FL",
+      "pct": 63.4,
+      "streak": 6,
+      "weeks": "uuuhuuuuhtuuuhubuubbbtuhuuubuubbuhhuuuuuu",
+      "week_count": 41,
+      "first_monday": "2025-08-11",
+      "offset": 1
+    },
+    {
+      "id": "nces:1709930",
+      "name": "Chicago Public Schools (City of Chicago SD 299)",
+      "state": "IL",
+      "pct": 63.4,
+      "streak": 7,
+      "weeks": "uuhuutuuhutuhuhuuubbtuhuuuhuuutbtuuuuuuuh",
+      "week_count": 41,
+      "first_monday": "2025-08-18",
+      "offset": 2
+    },
+    {
+      "id": "nces:4815910",
+      "name": "Cypress-Fairbanks Independent School District",
+      "state": "TX",
+      "pct": 62.5,
+      "streak": 6,
+      "weeks": "uuhuuuuthuuhuubuubbbtuhuuttuubuuhtuuuuuu",
+      "week_count": 40,
+      "first_monday": "2025-08-18",
+      "offset": 2
+    },
+    {
+      "id": "nces:4816230",
+      "name": "Dallas Independent School District",
+      "state": "TX",
+      "pct": 62.5,
+      "streak": 4,
+      "weeks": "uuhuuuuhtuutuubuuebbtuhuuuhuuubuhtuuutuu",
+      "week_count": 40,
+      "first_monday": "2025-08-18",
+      "offset": 2
+    },
+    {
+      "id": "nces:3200060",
+      "name": "Clark County School District",
+      "state": "NV",
+      "pct": 61.0,
+      "streak": 6,
+      "weeks": "uuuhutuuutthuhubuuubbuuhtuthuuubuttuuuuuu",
+      "week_count": 41,
+      "first_monday": "2025-08-11",
+      "offset": 1
+    },
+    {
+      "id": "nces:3702970",
+      "name": "Charlotte-Mecklenburg Schools",
+      "state": "NC",
+      "pct": 61.0,
+      "streak": 6,
+      "weeks": "uhtuttuuuuthubuuubbuuhuuututututbuuuuuuhu",
+      "week_count": 41,
+      "first_monday": "2025-08-25",
+      "offset": 3
+    },
+    {
+      "id": "nces:2400090",
+      "name": "Baltimore County Public Schools",
+      "state": "MD",
+      "pct": 56.1,
+      "streak": 6,
+      "weeks": "uhuuttuhteuetbuuubbuehuuuhuuutubbuuuuuuhu",
+      "week_count": 41,
+      "first_monday": "2025-08-25",
+      "offset": 3
+    },
+    {
+      "id": "nces:2400480",
+      "name": "Montgomery County Public Schools",
+      "state": "MD",
+      "pct": 56.1,
+      "streak": 5,
+      "weeks": "huuttuttutuuhuuubbuuhtuuheuutubbtuuuuuhuu",
+      "week_count": 41,
+      "first_monday": "2025-09-01",
+      "offset": 4
+    },
+    {
+      "id": "nces:3704720",
+      "name": "Wake County Public School System",
+      "state": "NC",
+      "pct": 56.1,
+      "streak": 3,
+      "weeks": "uhuutuuttuthubuuubbuuhtuutututubtuutuuuhu",
+      "week_count": 41,
+      "first_monday": "2025-08-25",
+      "offset": 3
+    },
+    {
+      "id": "nces:5101260",
+      "name": "Fairfax County Public Schools",
+      "state": "VA",
+      "pct": 54.8,
+      "streak": 4,
+      "weeks": "uheuuhueeethubuuubbuuhtuuhuuuuebtutuuuuhuu",
+      "week_count": 42,
+      "first_monday": "2025-08-25",
+      "offset": 3
+    },
+    {
+      "id": "nces:3620580",
+      "name": "New York City Department of Education",
+      "state": "NY",
+      "pct": 52.4,
+      "streak": 6,
+      "weeks": "uuhhuhhuthebuuubbuuhuuubueehubbuuuuuuhtuhu",
+      "week_count": 42,
+      "first_monday": "2025-09-08",
+      "offset": 5
+    },
+    {
+      "id": "nces:1201140",
+      "name": "Polk County Public Schools",
+      "state": "FL",
+      "pct": 51.2,
+      "streak": 4,
+      "weeks": "uuehuueuutueuhebuuebbtehuuehuuebuhuueuuuu",
+      "week_count": 41,
+      "first_monday": "2025-08-11",
+      "offset": 1
+    },
+    {
+      "id": "nces:2401290",
+      "name": "Prince George's County Public Schools",
+      "state": "MD",
+      "pct": 51.2,
+      "streak": 4,
+      "weeks": "heuhhutueutubuuebbuuheuehuuuuebbueuuuuhuu",
+      "week_count": 41,
+      "first_monday": "2025-09-01",
+      "offset": 4
+    },
+    {
+      "id": "nces:1200480",
+      "name": "Broward County Public Schools",
+      "state": "FL",
+      "pct": 50.0,
+      "streak": 5,
+      "weeks": "uuuhuuhhettuuhubuuebbtuhuuehuutbuhtuuuuueh",
+      "week_count": 42,
+      "first_monday": "2025-08-11",
+      "offset": 1
+    },
+    {
+      "id": "nces:1201020",
+      "name": "Orange County Public Schools",
+      "state": "FL",
+      "pct": 50.0,
+      "streak": 5,
+      "weeks": "uuhhutuettuethubuuubbtuheutueuttuubuuuuu",
+      "week_count": 40,
+      "first_monday": "2025-08-11",
+      "offset": 1
+    },
+    {
+      "id": "nces:4218990",
+      "name": "School District of Philadelphia",
+      "state": "PA",
+      "pct": 38.1,
+      "streak": 2,
+      "weeks": "uheuhhthuuhhubueubbueheuehuuehubeeuueuhhue",
+      "week_count": 42,
+      "first_monday": "2025-08-25",
+      "offset": 3
+    },
+    {
+      "id": "nces:1200390",
+      "name": "Miami-Dade County Public Schools",
+      "state": "FL",
+      "pct": 0.0,
+      "streak": 0,
+      "weeks": "eeheetteeeetheheeebbetheeeheeetbteeeeeeeh",
+      "week_count": 41,
+      "first_monday": "2025-08-18",
+      "offset": 2
+    }
+  ],
+  "max_weeks": 42,
+  "total_columns": 47,
+  "anchor_monday": "2025-08-04",
+  "code_legend": {
+    "u": "unbroken",
+    "e": "early_release",
+    "t": "teacher_only",
+    "h": "holiday",
+    "b": "break"
+  }
+}

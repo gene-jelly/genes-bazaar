@@ -1,65 +1,163 @@
 @use "./base.scss";
 
-// Gene's Bazaar — warm, handcrafted, eclectic
-// Parchment tones with jewel-toned accents
+// ═══════════════════════════════════════════════════════════════
+// Gene's Bazaar — WFRP 1e Module Aesthetic
+// ═══════════════════════════════════════════════════════════════
+// Visual reference: The Enemy Within campaign (1986–1989),
+// Graeme Davis / Phil Gallagher / Jim Bambra.
+// Art direction: John Blanche, Ian Miller, Russ Nicholson.
+// Typography: Caslon Antique → IM Fell English (Google Fonts).
+//
+// Key signatures reproduced here:
+//   · Thick black border frame around the content area
+//   · Drop caps in dark red (Chaos accent)
+//   · Heavy table rules (not the airy modern look)
+//   · Aged paper stock with subtle noise
+//   · Slightly rough, hand-set feeling in headers
+//   · Ornamental horizontal rules
+//   · Blockquotes as marginal notes with heavy left border
+// ═══════════════════════════════════════════════════════════════
 
-// Subtle parchment texture effect on the page background
+// ── Aged paper texture ────────────────────────────────────────
+// Subtle noise + warm gradients simulate the sickly off-white
+// stock GW used for WFRP interiors. Not overdone — just enough
+// to not feel like a screen.
+
 body {
   background-image:
-    radial-gradient(ellipse at 20% 50%, rgba(184, 134, 11, 0.03) 0%, transparent 50%),
-    radial-gradient(ellipse at 80% 20%, rgba(139, 69, 19, 0.03) 0%, transparent 50%);
+    radial-gradient(ellipse at 15% 40%, rgba(92, 51, 23, 0.04) 0%, transparent 50%),
+    radial-gradient(ellipse at 85% 25%, rgba(139, 26, 26, 0.02) 0%, transparent 50%),
+    radial-gradient(ellipse at 50% 90%, rgba(92, 51, 23, 0.03) 0%, transparent 40%);
 }
 
-// Article content refinements
+// ── Page frame ────────────────────────────────────────────────
+// WFRP modules had a thick black rule border around each page.
+// We approximate this with a border on the content center column.
+
 .center {
+  border: 3px solid var(--dark);
+  padding: 2rem 2.5rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  background-color: var(--light);
+  position: relative;
+
+  // Inner decorative rule (double-line frame effect)
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 6px;
+    border: 1px solid var(--gray);
+    pointer-events: none;
+  }
+
+  @media (max-width: 800px) {
+    border-width: 2px;
+    padding: 1rem 1.25rem;
+
+    &::before {
+      inset: 4px;
+    }
+  }
+
+  // ── Drop caps ─────────────────────────────────────────────
+  // WFRP modules used large red initials at chapter openings.
+  // The IM Fell SC face makes these feel hand-engraved.
   article {
-    // Drop caps on first paragraph
     > p:first-of-type::first-letter {
       float: left;
       font-family: var(--headerFont);
-      font-size: 3.5em;
-      line-height: 0.8;
-      padding-right: 0.08em;
-      padding-top: 0.05em;
+      font-size: 4em;
+      line-height: 0.75;
+      padding-right: 0.1em;
+      padding-top: 0.06em;
       color: var(--secondary);
     }
 
-    // Horizontal rules as ornamental dividers
+    // ── Horizontal rules as thick dividers ───────────────────
+    // WFRP used heavy black rules, sometimes with a thin rule
+    // above or below. We do a thick center rule flanked by thin.
     hr {
       border: none;
-      text-align: center;
-      margin: 2rem 0;
+      height: 3px;
+      background: var(--dark);
+      margin: 2rem 2rem;
+      position: relative;
 
+      &::before,
       &::after {
-        content: "~ ~ ~";
-        letter-spacing: 0.5em;
-        color: var(--gray);
-        font-family: var(--headerFont);
-        font-style: italic;
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background: var(--gray);
       }
+      &::before { top: -4px; }
+      &::after { bottom: -4px; }
     }
   }
 }
 
-// Table styling — cleaner, warmer
+// ── Headers ──────────────────────────────────────────────────
+// IM Fell English SC renders in small caps natively. The slight
+// irregularity of the letterforms gives headers that hand-set,
+// printed-on-a-dodgy-press quality that defines the WFRP look.
+
+h1 {
+  font-style: normal;
+  letter-spacing: 0.04em;
+  border-bottom: 2px solid var(--dark);
+  padding-bottom: 0.3em;
+  margin-bottom: 0.8em;
+}
+
+h2 {
+  letter-spacing: 0.03em;
+  border-bottom: 1px solid var(--gray);
+  padding-bottom: 0.2em;
+  margin-top: 2rem;
+}
+
+h3, h4, h5, h6 {
+  letter-spacing: 0.02em;
+}
+
+// ── Tables ───────────────────────────────────────────────────
+// WFRP stat blocks and equipment lists used heavy rules and
+// a cramped, utilitarian layout. Headers in the SC face.
+
 table {
   border-collapse: collapse;
   width: 100%;
   margin: 1.5rem 0;
   font-size: 0.9rem;
+  border: 2px solid var(--dark);
 
   th {
-    background-color: var(--highlight);
+    background-color: var(--dark);
+    color: var(--light);
     font-family: var(--headerFont);
-    font-weight: 600;
+    font-weight: normal;
     text-align: left;
-    padding: 0.6rem 0.8rem;
-    border-bottom: 2px solid var(--secondary);
+    padding: 0.5rem 0.7rem;
+    letter-spacing: 0.03em;
+    border-bottom: 2px solid var(--dark);
   }
 
   td {
-    padding: 0.5rem 0.8rem;
+    padding: 0.4rem 0.7rem;
     border-bottom: 1px solid var(--lightgray);
+    border-right: 1px solid var(--lightgray);
+
+    &:last-child {
+      border-right: none;
+    }
+  }
+
+  // Alternating row tinting — subtle aged look
+  tr:nth-child(even) td {
+    background-color: rgba(92, 51, 23, 0.04);
   }
 
   tr:hover td {
@@ -67,23 +165,81 @@ table {
   }
 }
 
-// Page title styling
-h1 {
-  font-style: italic;
-  letter-spacing: -0.01em;
+// Right-aligned numeric columns (district data tables)
+td:nth-child(n+4) {
+  text-align: right;
+  font-variant-numeric: tabular-nums lining-nums;
 }
 
-// Blockquote as "aside" styling
+// ── Blockquotes ──────────────────────────────────────────────
+// WFRP used boxed sidebars for in-world text (handouts, NPC
+// dialogue). We do a heavy left border + slight inset with a
+// darker background — the "torn parchment note" feel.
+
 blockquote {
-  border-left: 3px solid var(--secondary);
-  background: var(--highlight);
+  border-left: 4px solid var(--secondary);
+  border-right: 1px solid var(--lightgray);
+  border-top: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--lightgray);
+  background: rgba(92, 51, 23, 0.04);
   padding: 1rem 1.5rem;
-  border-radius: 0 4px 4px 0;
+  margin-left: 0;
+  margin-right: 0;
   font-style: italic;
 }
 
-// Footer warmth
+// ── Links ────────────────────────────────────────────────────
+// Subdued until hovered — WFRP modules didn't have hyperlinks
+// obviously, but the red accent carries the Chaos motif.
+
+a {
+  text-decoration-style: dotted;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+
+  &:hover {
+    text-decoration-style: solid;
+    color: var(--secondary);
+  }
+}
+
+// ── Code blocks ──────────────────────────────────────────────
+// Styled as if typeset on a different press — bordered, darker.
+
+pre {
+  border: 1px solid var(--gray);
+  background-color: rgba(0, 0, 0, 0.03) !important;
+}
+
+code {
+  font-size: 0.88em;
+}
+
+// ── Footer ───────────────────────────────────────────────────
 footer {
-  opacity: 0.7;
+  opacity: 0.6;
   font-size: 0.85rem;
+  letter-spacing: 0.02em;
+}
+
+// ── Page title (site header) ────────────────────────────────
+// The site name should feel like a book spine or title page.
+
+.page-title {
+  letter-spacing: 0.06em;
+}
+
+// ── Explorer / sidebar ──────────────────────────────────────
+// Tighter, more utilitarian — like a module's table of contents.
+
+.explorer {
+  font-size: 0.9rem;
+}
+
+// ── Selection color ─────────────────────────────────────────
+// Red-tinted selection to reinforce the Chaos accent.
+
+::selection {
+  background: rgba(139, 26, 26, 0.2);
+  color: var(--dark);
 }
